@@ -155,7 +155,7 @@ namespace YurtKayitSistemi
 
         private void hakkımızdaToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Bu Program\n[1]Mert Kıvanç Yılmaz / [2]Özgür Kıran\nTarafından C# ve MsSQL Kullanılarak Geliştirilmiştir\n\n2021 Şubat\n\n[1]165050010\n[2]155050014\n\n" +
+            MessageBox.Show("Bu Program\nMert Kıvanç Yılmaz /Tarafından C# ve MsSQL Kullanılarak Geliştirilmiştir\n\n2021 Şubat\n\n[1]165050010\n[2]155050014\n\n" +
                 "Bu Projede Bir Öğrenci Yurdunun İşletme Otomasyonu Yapımı Amaçlanmıştır.", "Öğenci Yurt Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
